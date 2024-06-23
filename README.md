@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-I'm passionate about crafting seamless web experiences with expertise in both front-end and back-end technologies. Let's collaborate and create something amazing together! 🚀
+Passionate about crafting seamless web experiences, I specialize in transforming ideas into user-centric digital solutions. With expertise in React, Node.js, and a keen eye for responsive design, I bring creativity and efficiency to every project. Let's collaborate and create something amazing together! 🚀
 
 ## Skills & Tools
 
