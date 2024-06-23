@@ -1,7 +1,5 @@
 # Full Stack Developer
 
-[Visit My Portfolio](https://yourwebsite.com)
-
 I'm passionate about crafting seamless web experiences with expertise in both front-end and back-end technologies. Let's collaborate and create something amazing together! 🚀
 
 ## GitHub Stats
