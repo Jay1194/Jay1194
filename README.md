@@ -1,8 +1,5 @@
 # Full Stack Developer
 
-### Technologies:
-REACT | NODE | EXPRESS | JAVASCRIPT | HTML | CSS | MONGODB | SQL
-
 [Visit My Portfolio](https://yourwebsite.com)
 
 I'm passionate about crafting seamless web experiences with expertise in both front-end and back-end technologies. Let's collaborate and create something amazing together! 🚀
