@@ -14,10 +14,6 @@ I'm passionate about crafting seamless web experiences with expertise in both fr
   </a>
 </p>
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-yellow?style=flat-square&logo=appveyor)](https://yourwebsite.com)
 
 
 
