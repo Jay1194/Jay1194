@@ -12,7 +12,7 @@ Passionate about crafting seamless web experiences, I specialize in transforming
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Website](https://img.shields.io/badge/Website-Portfolio-yellow?style=flat-square&logo=appveyor)](https://yourwebsite.com)
 
 
